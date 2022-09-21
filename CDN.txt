@@ -1,0 +1,4 @@
+cdn.staticaly.com //纯图片文本
+https://cdn.staticaly.com/gh/44578287/imguploaded@master/img/2022/09/19/07:41:31-40173a6bfbe2c4a50d87f79a235189a3-s8XB.gif
+cdn.jsdelivr.net //视频文件
+https://cdn.jsdelivr.net/gh/44578287/imguploaded/wx_camera_1648485338334.mp4
